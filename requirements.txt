@@ -1,0 +1,8 @@
+ib_insync
+boto3
+python-dotenv
+pandas
+tinydb
+yfinance
+Flask
+plotly
